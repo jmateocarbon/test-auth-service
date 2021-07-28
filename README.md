@@ -30,7 +30,6 @@
 
   <p align="center">
     - This is my first react/django stack project and I studied during the weekend and mostly based my code on this one 
-(loginAndReact)[https://github.com/SmallRedHXB/loginAndReact]
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
