@@ -117,8 +117,7 @@ This is an example of how to list things you need to use the software and how to
 2. Install Dependencies
 
 ## Simple way to Run:
-In the root directory, run the Auto.bat file and wit will do all the installation for you. 
-  - I purposedly did not add a venv script because that would be more time consuming while the user has an option to run or not run it themselves
+In the root directory, run the Auto.bat file and it will do all the installation for you and also launch the apps
 
 ## MANUAL APPROACH
 
