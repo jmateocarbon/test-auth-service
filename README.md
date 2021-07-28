@@ -79,9 +79,9 @@
 
 ## API's Used
 Backend
-http://localhost:8000/rest-auth/login/
-http://localhost:8000/rest-auth/user/
-http://localhost:8000/rest-auth/registration/
+http://localhost:8000/rest-auth/login/ \
+http://localhost:8000/rest-auth/user/ \
+http://localhost:8000/rest-auth/registration/ \
 
 FrontEnd
 http://localhost:8083
