@@ -178,6 +178,6 @@ https://www.linkedin.com/in/johnmatthewcarbon/
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
-* []()
-* []()
+* [SmallRedHXB](https://github.com/SmallRedHXB/loginAndReact)
+* [Tech With Tim](https://github.com/techwithtim/Music-Controller-Web-App-Tutoria)
+* [Tech With Time YT](https://www.youtube.com/watch?v=JD-age0BPVo&t=309s)
