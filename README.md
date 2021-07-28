@@ -78,6 +78,15 @@
 - This is my first time coding in react/django stack project and I just studied during the weekend, Mostly based my code on this one 
 (loginAndReact)[https://github.com/SmallRedHXB/loginAndReact] and https://www.youtube.com/watch?v=JD-age0BPVo
 
+## API's Used
+Backend
+http://localhost:8000/rest-auth/login/
+http://localhost:8000/rest-auth/user/
+http://localhost:8000/rest-auth/registration/
+
+FrontEnd
+http://localhost:8083
+
 ### Built With
 
 * [Python](https://www.python.org/)
