@@ -78,12 +78,12 @@
 (loginAndReact)[https://github.com/SmallRedHXB/loginAndReact] and https://www.youtube.com/watch?v=JD-age0BPVo
 
 ## API's Used
-Backend
+Backend: \
 http://localhost:8000/rest-auth/login/ \
 http://localhost:8000/rest-auth/user/ \
-http://localhost:8000/rest-auth/registration/ \
+http://localhost:8000/rest-auth/registration/ 
 
-FrontEnd
+FrontEnd: \
 http://localhost:8083
 
 ### Built With
